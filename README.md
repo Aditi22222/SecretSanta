@@ -48,6 +48,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 1. **Admin enters login credentials:** Admins enter their registered email and password.
 2. **Validate login credentials:** The system validates the entered credentials.
 3. **Redirect to home page upon successful login:** Upon successful validation, admins are redirected to the home page.
+   
+   ![Screenshot 2024-03-13 103449](https://github.com/Aditi22222/SecretSanta/assets/162342704/9706c40c-8341-49e3-be1d-b336a5795b40)
 
 ## Home Page
 1. **Choose from various options:** Admins can choose from various options available on the home page.
