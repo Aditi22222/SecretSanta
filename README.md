@@ -19,7 +19,7 @@ The website features several key functionalities aimed at enhancing the Secret S
 Overall, the website was developed with the intention of making our office Christmas celebration more enjoyable and organized. It focuses on fostering inclusivity and excitement for the holiday season by providing a user-friendly platform for coordinating the Secret Santa exchange.
 
 
-## Introduction
+
 
 ## Introduction
 
