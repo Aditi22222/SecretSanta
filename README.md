@@ -53,8 +53,9 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 
 ## Home Page
 1. **Choose from various options:** Admins can choose from various options available on the home page.
-2. 
-![Screenshot 2024-03-14 161913](https://github.com/Aditi22222/SecretSanta/assets/162342704/ca092bf1-67c9-4376-b98f-716dcee5e5da)
+
+    ![Screenshot 2024-03-14 162452](https://github.com/Aditi22222/SecretSanta/assets/162342704/62a658ee-6876-4d1b-9de6-f6317a9bc58d)
+
 
 ## QR Code Generation
 1. **Admins access QR code generation:** Admins access the feature to generate QR codes.
@@ -63,7 +64,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Distribute QR codes to employees:** Admins distribute QR codes to employees.
 5. **QR code button for each employee:** Each employee has a QR code button associated with their name.
 
-![Screenshot 2024-03-14 161913](https://github.com/Aditi22222/SecretSanta/assets/162342704/ca092bf1-67c9-4376-b98f-716dcee5e5da)
+
 ![Screenshot 2024-03-14 161930](https://github.com/Aditi22222/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
 
 ## Employee Management
