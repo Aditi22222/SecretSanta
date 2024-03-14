@@ -303,6 +303,33 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 
 ## PlantUML of Secret Santa Website
 
+The PlantUML diagram illustrates the architecture and components of the Secret Santa Website. It visualizes the various modules and their interactions within the system, providing a comprehensive overview of its structure.
+
+### Components:
+
+- **Admin Registration:** Represents the process flow for new administrators to register accounts, validate information, and create new admin accounts.
+
+- **Admin Login:** Illustrates the steps involved in admin login, including entering credentials, validating them, and redirecting to the home page upon successful login.
+
+- **Home Page:** Displays the options available to administrators upon logging in, such as accessing QR code generation, employee management, and viewing Secret Santa records.
+
+- **QR Code Generation:** Demonstrates the steps for admins to generate QR codes for Secret Santa assignments, save them, distribute them to employees, and associate QR codes with each employee.
+
+- **Employee Management:** Depicts the functionalities related to managing employee details, including viewing, adding, and deleting employee information.
+
+- **Viewing Secret Santa Records:** Shows how administrators can view Secret Santa assignments and manage them effectively within the system.
+
+- **Email Management:** Represents the process of sending email notifications containing Secret Santa details to participants on December 26th, ensuring transparency and clarity in the gift exchange process.
+
+### Technologies Used:
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Axios, Express.js, React Router DOM, Web Vitals, QRCode.react, react-hot-toast, init.
+
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose, Nodemailer, bcrypt, Cors, Nodemon, React Router.
+
+The diagram provides a visual reference for understanding the Secret Santa Website's architecture, component interactions, and underlying technologies, facilitating better comprehension of its functionalities and implementation details.
+
+
 ![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
 
 
@@ -356,7 +383,12 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 
 ## Conclusion
 
-In conclusion, our Secret Santa Website is a great way to organize and manage our gift exchange at work. It's easy to use and makes the whole process smooth. With features like simple signup, easy gift assignments, and clear email notifications, everyone can enjoy the holiday fun without any hassle.
+## Conclusion
 
-Plus, it helps us all feel included and brings us closer as a team. By using our website, we can make our office celebrations even more special and memorable. We're always working to make it better, so our holiday traditions can continue to bring joy year after year.
+In conclusion, our Secret Santa Website provides an efficient and user-friendly solution for organizing and managing our gift exchange at work. Its intuitive interface and streamlined processes make the entire experience smooth and hassle-free for participants.
+
+With features such as simple signup, easy gift assignments, and clear email notifications, our website ensures that everyone can fully enjoy the holiday fun without any complications. Additionally, it fosters inclusivity and strengthens team bonding by making every employee feel included and valued.
+
+By leveraging our website, we can enhance our office celebrations and create lasting memories for years to come. We remain committed to continually improving and refining our platform to ensure that our holiday traditions bring joy and camaraderie to our workplace year after year.
+
 
