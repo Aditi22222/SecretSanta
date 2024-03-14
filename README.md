@@ -114,7 +114,6 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - Cors for enabling CORS in Express.js
 - Nodemon for automatic server restarts during development
 - React Router for routing on the server side
-  ## Technologies Used
 
 ### Frontend
 
