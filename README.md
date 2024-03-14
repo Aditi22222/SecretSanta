@@ -8,7 +8,8 @@
 4. [Secret Santa Website Process](#secret-santa-website-process)
 5. [Testing with Selenium in Eclipse](#testing-with-selenium-in-eclipse)
 6. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
-7. [Conclusion](#conclusion)
+7. Comprehensive Overview of Secret Santa Application
+8. [Conclusion](#conclusion)
 
 ## Abstract
 
@@ -279,6 +280,55 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 ## PlantUML of Secret Santa Website
 
 ![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
+
+
+ # Comprehensive Overview of Secret Santa Application
+ # Backend: Node.js/Express with MongoDB
+
+## User Authentication:
+- Express.js handles HTTP requests.
+- MongoDB is connected using Mongoose.
+- Two schemas, Emp and User, are defined with Mongoose.
+- Routes for user authentication (/register, /login) are implemented.
+- Passwords are hashed with bcrypt before saving.
+- Login route checks email existence and compares hashed passwords.
+
+## Employee Management:
+- Endpoints for adding, fetching, updating, and deleting employees (/emplist, /emplist/:id, /empl/:id).
+- Employee data includes first name, last name, and email.
+
+## Secret Santa Assignment:
+- Endpoint /santasubmit assigns Secret Santas to employees.
+- It sends emails to each employee with their Secret Santa's details.
+
+# Frontend: React.js
+
+## Components:
+- **Register:** User registration form with form validation using Axios for HTTP requests and React Hot Toast for notifications.
+- **Santaform:** Form for submitting Secret Santa entries with form validation and Axios for HTTP requests.
+- **ShowQr:** Displays QR code generated based on URL parameters.
+- **UpdateEmp:** Incomplete component for updating employee information.
+- **App:** Main component with React Router for navigation.
+
+## Routing:
+- React Router handles client-side routing with different routes mapped to corresponding components.
+
+## Root Rendering:
+- ReactDOM.createRoot creates a root instance for rendering in strict mode.
+
+## Event Handlers and Form Validation:
+- Handlers like handlechange, handlechangeemail, and handlechangepass update state.
+- Form validation checks required fields and data criteria.
+
+## API Requests:
+- Axios makes HTTP requests to localhost:9002 for user registration and Santa event entries.
+
+## Styling:
+- Basic CSS styling applied to components.
+
+## Additional Features:
+- Nodemailer used for sending emails.
+- QR code generation (/empqr) and viewing Secret Santa records (/records).
 
 ## Conclusion
 
