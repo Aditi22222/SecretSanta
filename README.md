@@ -6,7 +6,7 @@
 2. [Introduction](#introduction)
 3. [Identifying the Need](#identifying-the-need)
 4. [Secret Santa Website Process](#Secret-Santa-Website-Process)
-5. [Testing](#testing)
+5. [Testing with Selenium in Eclipse](#Testing-with-Selenium-in-Eclipse)
 6. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
 7. [Conclusion](#conclusion)
 
@@ -82,9 +82,36 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - Bootstrap for front-end design
 - React.js for building user interfaces
 
-## Testing
+# Testing with Selenium in Eclipse
 
-The testing of the Secret Santa Website will be conducted using Selenium to ensure the functionality and reliability of the website across different web browsers and platforms.
+To ensure the functionality and reliability of the Secret Santa Website, testing was conducted using Selenium WebDriver in the Eclipse IDE. Selenium WebDriver is a powerful tool for automating web browser interactions, making it suitable for testing web applications like the Secret Santa Website.
+
+### Setting Up Selenium WebDriver Project in Eclipse:
+
+1. **Install Eclipse**: Eclipse IDE for Java developers was used for this project.
+
+2. **Create a New Java Project**: A new Java project was created in Eclipse to house the testing scripts.
+
+3. **Download Selenium WebDriver JAR Files**: Selenium WebDriver Java language bindings (JAR files) were downloaded from the Selenium official website.
+
+4. **Set Up the Project Build Path**: The Selenium WebDriver JAR files were added to the project's build path in Eclipse.
+
+### Writing Test Scripts Using Selenium WebDriver:
+
+1. **Create Test Classes**: Java classes were created in the Eclipse project to contain the test scripts. These classes were responsible for simulating user interactions with the Secret Santa Website.
+
+2. **Import Selenium WebDriver Classes**: Necessary Selenium WebDriver classes were imported into the test classes to interact with web elements on the Secret Santa Website.
+
+3. **Write Test Methods**: Test methods were written to perform specific actions on the Secret Santa Website, such as logging in, generating QR codes, and verifying user interactions.
+
+4. **Execute Test Scripts**: Test scripts were executed from Eclipse by running the Java classes containing the test methods.
+
+### Analyzing Test Results:
+
+After executing the test scripts, the results were analyzed to ensure that the Secret Santa Website functioned as expected. Test cases were designed to cover various functionalities of the website, including user authentication, QR code generation, and email notifications.
+
+By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret Santa Website was conducted to verify its functionality, reliability, and user experience.
+
 
 ## PlantUML of Secret Santa Website
 
