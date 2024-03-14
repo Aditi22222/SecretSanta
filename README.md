@@ -88,13 +88,30 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 3. **Disclose assigned Secret Santa details via email:** Assigned Secret Santa details are disclosed via email.
 
 ## Technologies Used
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
-- Node.js for server-side operations
-- MongoDB for database management
-- Bootstrap for front-end design
 - React.js for building user interfaces
+- Axios for making HTTP requests
+- React Router DOM for client-side routing
+- Web Vitals for web performance monitoring
+- QRCode.react for generating QR codes
+- react-hot-toast for toast notifications
+- init for project initialization
+
+### Backend
+- Node.js for server-side operations
+- Express.js for building RESTful APIs
+- MongoDB for database management
+- Mongoose for MongoDB object modeling
+- Nodemailer for sending emails
+- bcrypt for password hashing
+- Cors for enabling CORS in Express.js
+- Nodemon for automatic server restarts during development
+- React Router for routing on the server side
+
 
 # Testing with Selenium in Eclipse
 
