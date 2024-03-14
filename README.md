@@ -53,6 +53,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 
 ## Home Page
 1. **Choose from various options:** Admins can choose from various options available on the home page.
+2. 
+![Screenshot 2024-03-14 161913](https://github.com/Aditi22222/SecretSanta/assets/162342704/ca092bf1-67c9-4376-b98f-716dcee5e5da)
 
 ## QR Code Generation
 1. **Admins access QR code generation:** Admins access the feature to generate QR codes.
@@ -61,12 +63,21 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Distribute QR codes to employees:** Admins distribute QR codes to employees.
 5. **QR code button for each employee:** Each employee has a QR code button associated with their name.
 
+![Screenshot 2024-03-14 161913](https://github.com/Aditi22222/SecretSanta/assets/162342704/ca092bf1-67c9-4376-b98f-716dcee5e5da)
+![Screenshot 2024-03-14 161930](https://github.com/Aditi22222/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
+
 ## Employee Management
 1. **View/Add/Delete Employee List:** Admins can view, add, or delete employee details.
 2. **Manage employee details:** Admins can manage employee details as needed.
 
+    ![Screenshot 2024-03-14 161950](https://github.com/Aditi22222/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
+
+
+
 ## Viewing Secret Santa Records
 1. **View Secret Santa records:** Admins can view Secret Santa assignments.
+
+   ![Screenshot 2024-03-14 162008](https://github.com/Aditi22222/SecretSanta/assets/162342704/19e5a9bf-5138-4c85-b5e1-c159ffb04a0b)
 
 ## Email Management
 1. **System sends email notifications on December 26th:** Email notifications containing assigned Secret Santa details are sent.
