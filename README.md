@@ -8,7 +8,7 @@
 4. [Secret Santa Website Process](#secret-santa-website-process)
 5. [Testing with Selenium in Eclipse](#testing-with-selenium-in-eclipse)
 6. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
-7. Comprehensive Overview of Secret Santa Application
+7. [Comprehensive Overview of Secret Santa Application](Comprehensive-Overview-of-Secret-Santa-Application)
 8. [Conclusion](#conclusion)
 
 ## Abstract
