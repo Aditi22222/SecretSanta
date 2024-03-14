@@ -114,6 +114,92 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - Cors for enabling CORS in Express.js
 - Nodemon for automatic server restarts during development
 - React Router for routing on the server side
+  ## Technologies Used
+
+### Frontend
+
+- **HTML (Hypertext Markup Language):**
+  - HTML is the standard markup language used for creating the structure and content of web pages.
+  - It defines the layout and elements displayed on the user interface of the Secret Santa Website.
+
+- **CSS (Cascading Style Sheets):**
+  - CSS is used to style HTML elements, defining their appearance, layout, and visual presentation.
+  - It enhances the aesthetics and user experience by controlling colors, fonts, and spacing.
+
+- **JavaScript:**
+  - JavaScript enables dynamic interactions and functionalities on web pages.
+  - It handles user events and implements dynamic features to enhance interactivity.
+
+- **React.js:**
+  - React.js is a JavaScript library for building user interfaces.
+  - It allows for creating reusable UI components and managing application state efficiently.
+
+- **Axios:**
+  - Axios is a promise-based HTTP client for making asynchronous HTTP requests in JavaScript applications.
+  - It is used for making HTTP requests to the backend server and fetching data.
+
+- **Express.js:**
+  - Express.js is a minimalist web application framework for Node.js.
+  - It is utilized for server-side rendering and routing in the frontend of the Secret Santa Website.
+
+- **React Router DOM:**
+  - React Router DOM provides routing capabilities to React applications.
+  - It enables navigation between different pages without full page reloads.
+
+- **Web Vitals:**
+  - Web Vitals is used for monitoring key performance metrics such as page load time and interactivity.
+  - It ensures optimal performance and user satisfaction.
+
+- **QRCode.react:**
+  - QRCode.react is a React component library for generating QR codes dynamically.
+  - It facilitates the assignment of Secret Santas and enhances the user experience.
+
+- **react-hot-toast:**
+  - react-hot-toast is a library for displaying toast notifications in React applications.
+  - It provides a simple way to show informative messages to users.
+
+- **init:**
+  - init is a command-line utility for initializing new projects and configuring dependencies.
+  - It sets up the project structure and installs necessary dependencies.
+
+### Backend
+
+- **Node.js:**
+  - Node.js is a runtime environment for executing JavaScript code outside of a web browser.
+  - It is used for server-side operations in the Secret Santa Website.
+
+- **Express.js:**
+  - Express.js is a web application framework for Node.js.
+  - It is utilized for building RESTful APIs, handling HTTP requests, and routing.
+
+- **MongoDB:**
+  - MongoDB is a NoSQL database management system.
+  - It is used for storing and managing data in the Secret Santa Website.
+
+- **Mongoose:**
+  - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
+  - It provides a schema-based solution for modeling application data.
+
+- **Nodemailer:**
+  - Nodemailer is a module for sending emails from Node.js applications.
+  - It is used for sending email notifications to users.
+
+- **bcrypt:**
+  - bcrypt is a library for hashing passwords securely in Node.js applications.
+  - It ensures the security of user authentication credentials.
+
+- **Cors:**
+  - Cors is a middleware for enabling Cross-Origin Resource Sharing (CORS) in Express.js applications.
+  - It facilitates communication between frontend and backend components.
+
+- **Nodemon:**
+  - Nodemon is a utility for automatically restarting Node.js applications when file changes are detected.
+  - It enhances the development workflow by reducing manual intervention.
+
+- **React Router:**
+  - React Router is a library for routing in React applications.
+  - It is used for server-side routing in the backend of the Secret Santa Website.
+
 
 # Testing with Selenium in Eclipse
 
