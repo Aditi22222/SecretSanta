@@ -49,7 +49,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Create new admin account:** Upon successful validation, a new admin account is created.
 5. **Admin directed to login page:** The admin is then redirected to the login page.
 
-   ![Admin Registration](https://github.com/OurOrganization/SecretSanta/assets/162342704/af67a8f5-f85c-4316-a43d-6e762184bbde)
+ (https://github.com/OurOrganization/SecretSanta/assets/162342704/af67a8f5-f85c-4316-a43d-6e762184bbde)
 
 ### Admin Login
 1. **Admin enters login credentials:** Admins enter their registered email and password.
@@ -70,18 +70,18 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Distribute QR codes to employees:** Admins distribute QR codes to employees.
 5. **QR code button for each employee:** Each employee has a QR code button associated with their name.
 
-   ![QR Code Generation](https://github.com/OurOrganization/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
+  (https://github.com/OurOrganization/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
 
 ### Employee Management
 1. **View/Add/Delete Employee List:** Admins can view, add, or delete employee details.
 2. **Manage employee details:** Admins can manage employee details as needed.
 
-    ![Employee Management](https://github.com/OurOrganization/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
+  (https://github.com/OurOrganization/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
 
 ### Viewing Secret Santa Records
 1. **View Secret Santa records:** Admins can view Secret Santa assignments.
 
-   ![Secret Santa Records](https://github.com/OurOrganization/SecretSanta/assets/162342704/19e5a9bf-5138-4c85-b5e1-c159ffb04a0b)
+ (https://github.com/OurOrganization/SecretSanta/assets/162342704/19e5a9bf-5138-4c85-b5e1-c159ffb04a0b)
 
 ### Email Management
 1. **System sends email notifications on December 26th:** Email notifications containing assigned Secret Santa details are sent.
@@ -146,7 +146,7 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 
 ## PlantUML of Secret Santa Website
 
-![PlantUML](https://github.com/OurOrganization/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
+(https://github.com/OurOrganization/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
 
 ## Conclusion
 
