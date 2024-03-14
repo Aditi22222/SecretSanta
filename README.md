@@ -95,6 +95,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - JavaScript
 - React.js for building user interfaces
 - Axios for making HTTP requests
+- Express.js for backend API integration
 - React Router DOM for client-side routing
 - Web Vitals for web performance monitoring
 - QRCode.react for generating QR codes
@@ -111,6 +112,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - Cors for enabling CORS in Express.js
 - Nodemon for automatic server restarts during development
 - React Router for routing on the server side
+
 
 
 # Testing with Selenium in Eclipse
