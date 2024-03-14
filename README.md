@@ -49,19 +49,20 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Create new admin account:** Upon successful validation, a new admin account is created.
 5. **Admin directed to login page:** The admin is then redirected to the login page.
 
- (https://github.com/OurOrganization/SecretSanta/assets/162342704/af67a8f5-f85c-4316-a43d-6e762184bbde)
+  ![Screenshot 2024-03-14 162927](https://github.com/Aditi22222/SecretSanta/assets/162342704/af67a8f5-f85c-4316-a43d-6e762184bbde)
 
 ### Admin Login
 1. **Admin enters login credentials:** Admins enter their registered email and password.
 2. **Validate login credentials:** The system validates the entered credentials.
 3. **Redirect to home page upon successful login:** Upon successful validation, admins are redirected to the home page.
    
-   ![Admin Login](https://github.com/OurOrganization/SecretSanta/assets/162342704/9706c40c-8341-49e3-be1d-b336a5795b40)
+   ![Screenshot 2024-03-13 103449](https://github.com/Aditi22222/SecretSanta/assets/162342704/9706c40c-8341-49e3-be1d-b336a5795b40)
 
 ### Home Page
 1. **Choose from various options:** Admins can choose from various options available on the home page.
 
-    ![Home Page](https://github.com/OurOrganization/SecretSanta/assets/162342704/62a658ee-6876-4d1b-9de6-f6317a9bc58d)
+  ![Screenshot 2024-03-14 162452](https://github.com/Aditi22222/SecretSanta/assets/162342704/62a658ee-6876-4d1b-9de6-f6317a9bc58d)
+
 
 ### QR Code Generation
 1. **Admins access QR code generation:** Admins access the feature to generate QR codes.
@@ -70,18 +71,18 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Distribute QR codes to employees:** Admins distribute QR codes to employees.
 5. **QR code button for each employee:** Each employee has a QR code button associated with their name.
 
-  (https://github.com/OurOrganization/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
+  ![Screenshot 2024-03-14 161930](https://github.com/Aditi22222/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
 
 ### Employee Management
 1. **View/Add/Delete Employee List:** Admins can view, add, or delete employee details.
 2. **Manage employee details:** Admins can manage employee details as needed.
 
-  (https://github.com/OurOrganization/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
+   ![Screenshot 2024-03-14 161950](https://github.com/Aditi22222/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
 
 ### Viewing Secret Santa Records
 1. **View Secret Santa records:** Admins can view Secret Santa assignments.
 
- (https://github.com/OurOrganization/SecretSanta/assets/162342704/19e5a9bf-5138-4c85-b5e1-c159ffb04a0b)
+   ![Screenshot 2024-03-14 162008](https://github.com/Aditi22222/SecretSanta/assets/162342704/19e5a9bf-5138-4c85-b5e1-c159ffb04a0b)
 
 ### Email Management
 1. **System sends email notifications on December 26th:** Email notifications containing assigned Secret Santa details are sent.
@@ -146,7 +147,7 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 
 ## PlantUML of Secret Santa Website
 
-(https://github.com/OurOrganization/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
+![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
 
 ## Conclusion
 
