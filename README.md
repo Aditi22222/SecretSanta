@@ -297,6 +297,103 @@ To set up a basic Selenium project using JDK, Maven, and Eclipse, follow these s
 ![Screenshot 2024-03-07 114828](https://github.com/Aditi22222/Selenium/assets/162342704/68e0fece-95e4-49fe-9964-c0e9ea4daf0b)
 
 ![Screenshot 2024-03-07 115548](https://github.com/Aditi22222/Selenium/assets/162342704/a190ecd3-16df-4d52-a4d1-ab36b55f9f18)
+# Open browser using Selenium(WebDriver , Eclipse)
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class OpenBrowser {
+    public static void main(String[] args) {
+       
+         1. Set the system property to specify the location of the ChromeDriver executable
+        System.setProperty("webdriver.chrome.driver", "C:\\salanium testing\\chromedriver\\chromedriver-win32\\chromedriver.exe");
+        
+        2. Initialize a new instance of the ChromeDriver class
+        WebDriver driver = new ChromeDriver();
+        
+         3. Open a new browser window
+        driver.get("https://www.example.com");
+    }
+}
+ # Write Testcase, step(TestNG, Installation, Configure)
+
+1. **Open Eclipse IDE:**
+   - Launch the Eclipse IDE on your computer.
+
+2. **Access the Eclipse Marketplace:**
+   - Go to `Help` > `Eclipse Marketplace...` from the top menu bar.
+
+3. **Search for TestNG:**
+   - In the Eclipse Marketplace dialog, type "TestNG" into the search bar.
+
+4. **Select TestNG from Search Results:**
+   - From the search results, find "TestNG for Eclipse" and click on it.
+
+5. **Install TestNG:**
+   - Click on the `Go to the marketplace` button.
+   - Click on the `Install` button next to "TestNG for Eclipse".
+
+6. **Review Installation Details:**
+   - Review the details of the installation including the software being installed and its dependencies.
+
+7. **Accept License Agreement:**
+   - Accept the terms of the license agreement and click `Finish`.
+
+8. **Restart Eclipse:**
+   - Once the installation is complete, Eclipse will prompt you to restart.
+   - Click `Yes` to restart Eclipse.
+
+9. **Verify TestNG Installation:**
+   - After restarting Eclipse, create a new Java project or open an existing one.
+   - Right-click on the project, go to `Properties` > `TestNG`.
+   - Verify that TestNG is listed as one of the testing frameworks.
+
+10. **TestNG is Installed Successfully:**
+    - Congratulations! You have successfully installed TestNG in Eclipse via the Eclipse Marketplace.
+
+![Screenshot 2024-03-07 144713](https://github.com/Aditi22222/Selenium/assets/162342704/9c1b3c06-7987-4801-8d8a-f84db51fa6c2)
+
+![Screenshot 2024-03-07 145304](https://github.com/Aditi22222/Selenium/assets/162342704/cdfd3354-5d21-4c8a-9fb4-acfb1a3022d1)
+
+# Locators In Selenium (TestNG Priority Attribute)
+
+Selenium WebDriver is a powerful tool for automating web applications. Locators are used to identify elements on a web page, and TestNG's priority attribute allows you to prioritize the execution order of test methods.
+
+#### Locating Elements with Selenium WebDriver
+
+1. **ID Locator:**
+   - Use `driver.findElement(By.id("element_id"))` to locate elements by their ID attribute.
+
+2. **Name Locator:**
+   - Use `driver.findElement(By.name("element_name"))` to locate elements by their Name attribute.
+
+3. **Class Name Locator:**
+   - Use `driver.findElement(By.className("element_class"))` to locate elements by their Class Name attribute.
+
+4. **Tag Name Locator:**
+   - Use `driver.findElement(By.tagName("tag_name"))` to locate elements by their HTML tag.
+
+5. **Link Text Locator:**
+   - Use `driver.findElement(By.linkText("link_text"))` to locate anchor elements by their visible text.
+
+6. **Partial Link Text Locator:**
+   - Use `driver.findElement(By.partialLinkText("partial_link_text"))` to locate anchor elements by partial visible text.
+
+7. **XPath Locator:**
+   - Use `driver.findElement(By.xpath("xpath_expression"))` to locate elements using XPath.
+
+8. **CSS Selector Locator:**
+   - Use `driver.findElement(By.cssSelector("css_selector"))` to locate elements using CSS selectors.
+
+#### Using TestNG Priority Attribute
+
+The priority attribute in TestNG allows you to prioritize the order of test method execution.
+
+1. **Specify Priority in TestNG Annotations:**
+   - Use the `priority` attribute in `@Test` annotation to specify the execution order of test methods.
+   - TestNG will execute the test methods in ascending order of their priority values.
+
+![Screenshot 2024-03-07 145816](https://github.com/Aditi22222/Selenium/assets/162342704/23ca662e-6c7f-4517-b954-dfc61088eea6)
 
 ### Analyzing Test Results:
 
