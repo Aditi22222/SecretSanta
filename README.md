@@ -148,7 +148,8 @@ By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret 
 
 ## PlantUML of Secret Santa Website
 
-![Screenshot 2024-03-14 170551](https://github.com/Aditi22222/SecretSanta/assets/162342704/ee2dbcf8-be67-41d6-825b-bc8b34a2859e)
+![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
+
 
 
 ## Conclusion
