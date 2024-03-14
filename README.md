@@ -21,18 +21,22 @@ Overall, the website was developed with the intention of making our office Chris
 
 ## Introduction
 
-Welcome to the Secret Santa Website, a platform designed to simplify and enhance the experience of organizing Secret Santa gift exchanges within our organization. The holiday season is a time for celebration, joy, and camaraderie, and the tradition of Secret Santa adds an extra layer of excitement to workplace festivities. However, coordinating Secret Santa events manually can be challenging and prone to errors, leading to confusion and frustration among participants.
+## Introduction
 
-Recognizing the need for a more efficient and user-friendly solution, we developed the Secret Santa Website to streamline the process of organizing and managing Secret Santa exchanges. Our goal is to provide a seamless experience for both administrators and participants, making it easy to sign up, manage gift assignments, and foster a sense of community spirit during the holiday season.
+The Secret Santa Website facilitates several essential processes to ensure the smooth and effective management of Secret Santa events within our organization. It begins with admin registration, where new administrators can easily create accounts by providing necessary details like their name, email, and password. Once this information is provided, the system validates it for accuracy, and upon successful validation, a new admin account is created, directing the admin to the login page for access.
 
-In this introduction, we'll explore the key features of the Secret Santa Website and how they contribute to making our office Christmas celebration more enjoyable and organized. Whether you're a small team or a large organization, our website is designed to meet your Secret Santa event management needs and enhance the festive atmosphere in your workplace. Let's discover how our platform can transform your holiday celebrations for the better.
+Once logged in, administrators can navigate to the home page, where they are presented with various options to manage the Secret Santa event. One crucial feature is the QR code generation tool, allowing admins to generate unique QR codes for each participant, simplifying the process of assigning Secret Santas. These generated QR codes can be saved and distributed to employees, providing a seamless way for everyone to access their Secret Santa assignments.
+
+The website also offers employee management functionalities, enabling admins to view, add, or delete employee details as needed. This feature ensures that participant information remains up-to-date and accurate throughout the event. Additionally, admins can easily access Secret Santa records to oversee and manage the gift exchange process effectively.
+
+Moreover, the Secret Santa Website automates email notifications, sending them out on December 26th to inform participants of their assigned Secret Santas. These emails contain all the necessary details, ensuring clarity and transparency in the gift exchange process. Overall, the website streamlines the organization and execution of Secret Santa events, making it a valuable tool for creating memorable holiday experiences within our organization.
+
 
 
 ## Identifying the Need
+We noticed some issues during our previous office Christmas celebrations, especially concerning the organization of our Secret Santa gift exchange. Managing it manually led to confusion and made it challenging to ensure fairness for everyone involved. People often became confused about who they were supposed to give gifts to, which dampened the fun of the event.
+Our mentors and Rashmi Chaudhary, Ma'am, identified these problems and realized the need for a better way to manage our Secret Santa event. They assigned the task to find a solution to the January intern. Everyone pitched in with their ideas, and among them, Aman's idea was chosen. The task of implementing the solution was then assigned to Aman, Aditi, and Irfan.
 
-We noticed some problems during our past office Christmas celebrations, especially with organizing our Secret Santa gift exchange. Doing it manually caused confusion and made it hard to keep things fair for everyone. People often got mixed up about who they were supposed to give gifts to, which wasn't much fun.
-
-[Rashmi Chaudhary](#), our team lead, saw these problems and realized we needed a better way to manage our Secret Santa event. She tasked the January intern with finding a solution to this issue, and everyone came up with their own ideas. Among them, Aman's idea was chosen, and this task was assigned to Aman, Aditi, and Irfan.
 
 ## Secret Santa Website Process
 
