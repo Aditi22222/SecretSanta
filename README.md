@@ -302,6 +302,125 @@ After executing the test scripts, the results were analyzed to ensure that the S
 By utilizing Selenium WebDriver in Eclipse, comprehensive testing of the Secret Santa Website was conducted to verify its functionality, reliability, and user experience.
 
 ## PlantUML of Secret Santa Website
+### PlantUML of Secret Santa Website
+
+The PlantUML diagram below illustrates the architecture and flow of the Secret Santa Website:
+
+```plantuml
+@startuml
+
+skinparam package {
+    BackgroundColor LightPink
+    BorderColor Black
+}
+
+package "Admin Registration" {
+    [New admin visit the registration page]
+    [Provide necessary details]
+    [Validate information]
+    [Create new admin account]
+    [Admin directed to login page]
+}
+
+package "Admin Login" {
+    [Admin enters login credentials]
+    [Validate login credentials]
+    [Redirect to home page upon successful login]
+}
+
+package "Home Page" {
+    [Choose from various options]
+}
+
+package "QR Code Generation" {
+    [Admins access QR code generation]
+    [Generate QR code to become a Secret Santa]
+    [Save QR codes in a document file]
+    [Distribute QR codes to employees]
+    [QR code button for each employee]
+}
+
+package "Employee Management" {
+    [View/Add/Delete Employee List]
+    [Manage employee details]
+}
+
+package "Viewing Secret Santa Records" {
+    [View Secret Santa records]
+    [Manage Secret Santa assignments]
+}
+
+package "Email Management" {
+    [System sends email notifications on December 26th]
+    [Contain assigned Secret Santa details]
+    [Disclose assigned Secret Santa details via email]
+}
+
+package "Frontend" {
+    [HTML]
+    [CSS]
+    [JavaScript]
+    [React.js] as react
+    [Axios]
+    [Express.js]
+    [React Router DOM]
+    [Web Vitals]
+    [QRCode.react]
+    [react-hot-toast]
+    [init]
+}
+
+package "Backend" {
+    [Node.js] as node
+    [Express.js]
+    [MongoDB] as mongo
+    [Mongoose]
+    [Nodemailer]
+    [bcrypt]
+    [Cors]
+    [Nodemon]
+    [React Router]
+}
+
+[New admin visit the registration page] --> [Provide necessary details]
+[Provide necessary details] --> [Validate information]
+[Validate information] --> [Create new admin account]
+[Create new admin account] --> [Admin directed to login page]
+
+[Admin directed to login page] --> [Admin enters login credentials]
+[Admin enters login credentials] --> [Validate login credentials]
+[Validate login credentials] --> [Redirect to home page upon successful login]
+
+[Redirect to home page upon successful login] --> [Choose from various options]
+[Choose from various options] --> [Admins access QR code generation]
+[Choose from various options] --> [View/Add/Delete Employee List]
+[Choose from various options] --> [View Secret Santa records]
+
+[Admins access QR code generation] --> [QR Code Generation]
+[QR Code Generation] --> [Generate QR code to become a Secret Santa]
+[Generate QR code to become a Secret Santa] --> [Save QR codes in a document file]
+[Save QR codes in a document file] --> [Distribute QR codes to employees]
+[Distribute QR codes to employees] --> [QR code button for each employee]
+
+[QR code button for each employee] --> [Employee scans QR code]
+[Employee scans QR code] --> [Open form to fill details]
+
+[View/Add/Delete Employee List] --> [Employee Management]
+[Employee Management] --> [Manage employee details]
+
+[View Secret Santa records] --> [Viewing Secret Santa Records]
+[Viewing Secret Santa Records] --> [Manage Secret Santa assignments]
+
+[System sends email notifications on December 26th] --> [Email Management]
+[Email Management] --> [Contain assigned Secret Santa details]
+[Contain assigned Secret Santa details] --> [Disclose assigned Secret Santa details via email]
+
+node --> mongo : Database Operations
+react --> node : API Requests
+node --> react : Data Responses
+
+@enduml
+
 
 ![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
 
