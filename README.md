@@ -59,11 +59,9 @@ Moreover, the Secret Santa Website automates email notifications, sending them o
 
 
 ## Identifying the Need
-During previous office Christmas celebrations, our team encountered several challenges, particularly with the organization of our Secret Santa gift exchange. The manual management of this event led to confusion among participants and posed difficulties in ensuring fairness for all involved. Individuals often found themselves uncertain about whom they were supposed to give gifts to, which ultimately diminished the enjoyment of the event.
+We noticed some issues during our previous office Christmas celebrations, especially concerning the organization of our Secret Santa gift exchange. Managing it manually led to confusion and made it challenging to ensure fairness for everyone involved. People often became confused about who they were supposed to give gifts to, which dampened the fun of the event.
 
-Recognizing these issues, our mentors and Rashmi Chaudhary, Ma'am, took notice and acknowledged the necessity for a more efficient approach to managing our Secret Santa event. Consequently, they tasked the January intern with finding a solution to address these challenges. Drawing upon the collective creativity of the team, everyone contributed ideas, among which Aman's proposal stood out.
-
-Upon selection, the responsibility for implementing the solution was entrusted to Aman, Aditi, and Irfan. This collaborative effort aimed to leverage the diverse skills and perspectives within the team to develop a streamlined and user-friendly solution for managing our Secret Santa event.
+Our mentors and Rashmi Chaudhary, Ma'am, identified these problems and realized the need for a better way to manage our Secret Santa event. They assigned the task to find a solution to the January intern. Everyone pitched in with their ideas, and among them, Aman's idea was chosen. The task of implementing the solution was then assigned to Aman, Aditi, and Irfan.
 
 
 ## Secret Santa Website Process
