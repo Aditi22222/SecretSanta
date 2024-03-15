@@ -130,6 +130,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - react-hot-toast for toast notifications
 - init for project initialization
 
+![Screenshot 2024-03-15 110846](https://github.com/Aditi22222/SecretSanta/assets/162342704/5c4f045c-6d9c-4445-8f08-cd6cd4801f1a)
+
 ### Backend
 - Node.js for server-side operations
 - Express.js for building RESTful APIs
@@ -140,6 +142,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 - Cors for enabling CORS in Express.js
 - Nodemon for automatic server restarts during development
 - React Router for routing on the server side
+
+![Screenshot 2024-03-15 110916](https://github.com/Aditi22222/SecretSanta/assets/162342704/acc601dd-7a21-486b-afcd-35aee64e91c5)
 
 ### Frontend
 
