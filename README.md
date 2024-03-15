@@ -397,6 +397,9 @@ The priority attribute in TestNG allows you to prioritize the order of test meth
 
 ![Screenshot 2024-03-07 145816](https://github.com/Aditi22222/Selenium/assets/162342704/23ca662e-6c7f-4517-b954-dfc61088eea6)
 
+## Automating Secret Santa Website
+
+
 ### Analyzing Test Results:
 
 After executing the test scripts, the results were analyzed to ensure that the Secret Santa Website functioned as expected. Test cases were designed to cover various functionalities of the website, including user authentication, QR code generation, and email notifications.
