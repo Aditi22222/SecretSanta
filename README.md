@@ -409,20 +409,16 @@ The priority attribute in TestNG allows you to prioritize the order of test meth
 
   # QR scanner Process
 ![Screenshot 2024-03-15 111507](https://github.com/Aditi22222/SecretSanta/assets/162342704/55307fae-be03-47ef-8ba6-48106ad266e0)
- # Register Process
-![Screenshot 2024-03-15 111519](https://github.com/Aditi22222/SecretSanta/assets/162342704/b9097884-9c31-43bb-83c2-683b0a897995)
-
-![Screenshot 2024-03-15 112134](https://github.com/Aditi22222/SecretSanta/assets/162342704/73032979-2896-43fb-9a48-066d366739cb)
-
-![Screenshot 2024-03-15 112155](https://github.com/Aditi22222/SecretSanta/assets/162342704/d27e2f9a-8b8a-44d9-be9b-9189c75d554f)
-
 ![Screenshot 2024-03-15 112217](https://github.com/Aditi22222/SecretSanta/assets/162342704/299b3aa2-a1a2-4da2-bb2a-51984c7d7163)
 
-![Screenshot 2024-03-15 112229](https://github.com/Aditi22222/SecretSanta/assets/162342704/fbf88b62-ad27-4f3f-9f50-c58cf36c11ca)
+ # Register Process
+
+![Screenshot 2024-03-15 111519](https://github.com/Aditi22222/SecretSanta/assets/162342704/b9097884-9c31-43bb-83c2-683b0a897995)
 
 ![Screenshot 2024-03-15 112244](https://github.com/Aditi22222/SecretSanta/assets/162342704/707a1bcb-f5d9-47f8-9f8e-dd23849ac760)
 
 ![Screenshot 2024-03-15 112304](https://github.com/Aditi22222/SecretSanta/assets/162342704/ac27df2f-81ee-48bf-a5b7-e7e379d5a9a7)
+
 ### Analyzing Test Results:
 
 After executing the test scripts, the results were analyzed to ensure that the Secret Santa Website functioned as expected. Test cases were designed to cover various functionalities of the website, including user authentication, QR code generation, and email notifications.
