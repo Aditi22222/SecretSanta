@@ -35,7 +35,7 @@
    4. [Write Testcase, step(TestNG, Installation, Configure)](#write-testcase-stepTestNG-installation-configure)
    5. [Locators In Selenium (TestNG Priority Attribute)](#locators-in-selenium-testng-priority-attribute)
    6. [Automating Secret Santa Website](#automating-secret-santa-website)
-      
+
 7. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
 8. [Comprehensive Overview of Secret Santa Application](#comprehensive-overview-of-secret-santa-application)
 9. [Conclusion](#conclusion)
