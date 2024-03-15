@@ -397,9 +397,9 @@ The priority attribute in TestNG allows you to prioritize the order of test meth
 
 ![Screenshot 2024-03-07 145816](https://github.com/Aditi22222/Selenium/assets/162342704/23ca662e-6c7f-4517-b954-dfc61088eea6)
 
-## Automating Secret Santa Website
+# Automating Secret Santa Website
 
- # Secret Santa Testing Process :
+ ## Secret Santa Testing Process :
  
 ![Screenshot 2024-03-15 111449](https://github.com/Aditi22222/SecretSanta/assets/162342704/4c45bb6a-b7ce-4c66-8e9c-c434c36d4c75)
 
