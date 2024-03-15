@@ -479,7 +479,7 @@ The diagram provides a visual reference for understanding the Secret Santa Websi
 - Nodemailer used for sending emails.
 - QR code generation (/empqr) and viewing Secret Santa records (/records).
 
-## Conclusion
+
 
 ## Conclusion
 
