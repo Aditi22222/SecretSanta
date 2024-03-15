@@ -399,10 +399,14 @@ The priority attribute in TestNG allows you to prioritize the order of test meth
 
 ## Automating Secret Santa Website
 
+ # Secret Santa Testing Process :
 ![Screenshot 2024-03-15 111449](https://github.com/Aditi22222/SecretSanta/assets/162342704/4c45bb6a-b7ce-4c66-8e9c-c434c36d4c75)
 
-![Screenshot 2024-03-15 111507](https://github.com/Aditi22222/SecretSanta/assets/162342704/55307fae-be03-47ef-8ba6-48106ad266e0)
+![Screenshot 2024-03-15 112134](https://github.com/Aditi22222/SecretSanta/assets/162342704/73032979-2896-43fb-9a48-066d366739cb)
 
+  # QR scanner Process
+![Screenshot 2024-03-15 111507](https://github.com/Aditi22222/SecretSanta/assets/162342704/55307fae-be03-47ef-8ba6-48106ad266e0)
+ # Register Process
 ![Screenshot 2024-03-15 111519](https://github.com/Aditi22222/SecretSanta/assets/162342704/b9097884-9c31-43bb-83c2-683b0a897995)
 
 ![Screenshot 2024-03-15 112134](https://github.com/Aditi22222/SecretSanta/assets/162342704/73032979-2896-43fb-9a48-066d366739cb)
