@@ -63,27 +63,36 @@ The website also offers employee management functionalities, enabling admins to 
 Moreover, the Secret Santa Website automates email notifications, sending them out on December 26th to inform participants of their assigned Secret Santas. These emails contain all the necessary details, ensuring clarity and transparency in the gift exchange process. Overall, the website streamlines the organization and execution of Secret Santa events, making it a valuable tool for creating memorable holiday experiences within our organization.
 
 # Objectives
-### Objectives
 
-1. **Enhance User Experience:** Improve the website's usability and interface to ensure a seamless and enjoyable experience for users participating in the Secret Santa event.
+1. # Enhance User Experience:
+2. Improve the website's usability and interface to ensure a seamless and enjoyable experience for users participating in the Secret Santa event.
 
-2. **Streamline Event Management:** Develop administrative tools to simplify the process of organizing and managing the Secret Santa event, including features for employee data management and event tracking.
+3. # Streamline Event Management:
+   Develop administrative tools to simplify the process of organizing and managing the Secret Santa event, including features for employee data management and event tracking.
 
-3. **Increase Participation:** Implement features and incentives to encourage higher participation rates among employees, fostering a greater sense of community and holiday spirit within the organization.
+4. # Increase Participation:
+    Implement features and incentives to encourage higher participation rates among employees, fostering a greater sense of community and holiday spirit within the organization.
 
-4. **Ensure Data Security:** Strengthen security measures to protect user data and ensure compliance with privacy regulations, maintaining trust and confidence among participants.
+6. # Ensure Data Security:
+    Strengthen security measures to protect user data and ensure compliance with privacy regulations, maintaining trust and confidence among participants.
 
-5. **Expand Feature Set:** Introduce new functionalities and integrations to enrich the Secret Santa experience, catering to diverse user preferences and needs.
+8. # Expand Feature Set:
+    Introduce new functionalities and integrations to enrich the Secret Santa experience, catering to diverse user preferences and needs.
 
-6. **Improve Communication:** Enhance communication channels between participants and administrators, facilitating clearer instructions, reminders, and notifications throughout the event.
+10. # Improve Communication:
+    Enhance communication channels between participants and administrators, facilitating clearer instructions, reminders, and notifications throughout the event.
 
-7. **Promote Accessibility:** Optimize the website for accessibility to ensure that all users, including those with disabilities, can fully participate in the Secret Santa event without barriers.
+12. # Promote Accessibility:
+     Optimize the website for accessibility to ensure that all users, including those with disabilities, can fully participate in the Secret Santa event without barriers.
 
-8. **Drive Engagement:** Incorporate gamification elements and community-building activities to enhance engagement and excitement surrounding the Secret Santa event.
+14. # Drive Engagement:
+    Incorporate gamification elements and community-building activities to enhance engagement and excitement surrounding the Secret Santa event.
 
-9. **Facilitate Internationalization:** Support multiple languages and cultural customs to accommodate participants from diverse backgrounds and regions, promoting inclusivity and cultural sensitivity.
+16. # Facilitate Internationalization:
+     Support multiple languages and cultural customs to accommodate participants from diverse backgrounds and regions, promoting inclusivity and cultural sensitivity.
 
-10. **Measure Success:** Establish key performance indicators (KPIs) to track the effectiveness of the Secret Santa Website in achieving its objectives and iteratively improve based on feedback and analytics.
+18. # Measure Success:
+     Establish key performance indicators (KPIs) to track the effectiveness of the Secret Santa Website in achieving its objectives and iteratively improve based on feedback and analytics.
 
 
 
