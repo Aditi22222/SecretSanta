@@ -1,16 +1,44 @@
-# Secret Santa Website
+
+# Secret Santa Website Documentation
 
 ## Table of Contents
 
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
-3. [Objectives](Objectives)
+3. [Objectives](#objectives)
+   1. [Enhance User Experience](#enhance-user-experience)
+   2. [Streamline Event Management](#streamline-event-management)
+   3. [Increase Participation](#increase-participation)
+   4. [Ensure Data Security](#ensure-data-security)
+   5. [Expand Feature Set](#expand-feature-set)
+   6. [Improve Communication](#improve-communication)
+   7. [Promote Accessibility](#promote-accessibility)
+   8. [Drive Engagement](#drive-engagement)
+   9. [Facilitate Internationalization](#facilitate-internationalization)
+   10. [Measure Success](#measure-success)
 4. [Identifying the Need](#identifying-the-need)
 5. [Secret Santa Website Process](#secret-santa-website-process)
-6. [Testing with Selenium in Eclipse](#testing-with-selenium-in-eclipse)
-7. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
-8. [Comprehensive Overview of Secret Santa Application](Comprehensive-Overview-of-Secret-Santa-Application)
-9. [Conclusion](#conclusion)
+   1. [Admin Registration](#admin-registration)
+   2. [Admin Login](#admin-login)
+   3. [Home Page](#home-page)
+   4. [QR Code Generation](#qr-code-generation)
+   5. [Employee Management](#employee-management)
+   6. [Viewing Secret Santa Records](#viewing-secret-santa-records)
+   7. [Email Management](#email-management)
+6. [Technologies Used](#technologies-used)
+   1. [Frontend](#frontend)
+   2. [Backend](#backend)
+7. [Testing with Selenium in Eclipse](#testing-with-selenium-in-eclipse)
+   1. [Introduction to Selenium](#introduction-to-selenium)
+   2. [Basic Setup For Selenium(JDK, Maven Project, Eclipse)](#basic-setup-for-seleniumjdk-maven-project-eclipse)
+   3. [Open browser using Selenium(WebDriver , Eclipse)](#open-browser-using-seleniumwebdriver--eclipse)
+   4. [Write Testcase, step(TestNG, Installation, Configure)](#write-testcase-stepTestNG-installation-configure)
+   5. [Locators In Selenium (TestNG Priority Attribute)](#locators-in-selenium-testng-priority-attribute)
+   6. [Automating Secret Santa Website](#automating-secret-santa-website)
+   7. [PlantUML of Secret Santa Website](#plantuml-of-secret-santa-website)
+   8. [Comprehensive Overview of Secret Santa Application](#comprehensive-overview-of-secret-santa-application)
+8. [Conclusion](#conclusion)
+
 
 ## Abstract
 
