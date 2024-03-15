@@ -413,6 +413,8 @@ The priority attribute in TestNG allows you to prioritize the order of test meth
 
 ![Screenshot 2024-03-15 111507](https://github.com/Aditi22222/SecretSanta/assets/162342704/55307fae-be03-47ef-8ba6-48106ad266e0)
 
+![Screenshot 2024-03-15 112229](https://github.com/Aditi22222/SecretSanta/assets/162342704/6069ea53-6a7f-41ea-8889-a28694f5d10d)
+
 
  # Register 
 
