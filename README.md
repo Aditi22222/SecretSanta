@@ -140,6 +140,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 ### Employee Management
 1. **View/Add/Delete Employee List:** Admins can view, add, or delete employee details.
 2. **Manage employee details:** Admins can manage employee details as needed.
+3. **Update Employee Information:** Admins have the option to update employee information, ensuring that the data remains accurate and up to date.
 
    ![Screenshot 2024-03-14 161950](https://github.com/Aditi22222/SecretSanta/assets/162342704/914f1f03-7155-4c77-81d3-615f3cc81f97)
 
