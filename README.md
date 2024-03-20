@@ -513,6 +513,7 @@ The diagram provides a visual reference for understanding the Secret Santa Websi
 
 ![Screenshot 2024-03-14 170825](https://github.com/Aditi22222/SecretSanta/assets/162342704/9c4e9c4b-c8c2-4646-9a17-be54779b5530)
 
+![dLVBSjiw3DtpAp3TfvsvYowww3In-voaJUrExk9E5ZG5osmaqYKfjvbE__s23z6IOqbslQA10-00107xZNNSkAQk6BCFKcsvuJLikNZW9S9l1lIvec-bqOqgPhhI1gvbkN6tKZr4hJO5cgYvgWZA_Z3MEdXsMTHImG9BQPtXJchrB7dzxpF-11xKEscb0xT1C1qWiIZnFc9lZTx90a6XG6kvUOG27PULJVexNic2EmIfrjhKmJwfPWQzGkL](https://github.com/Aditi22222/SecretSanta/assets/162342704/c7c1f22f-90db-40a3-8678-ed86e262ec08)
 
  # Comprehensive Overview of Secret Santa Application
  # Backend: Node.js/Express with MongoDB
