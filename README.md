@@ -335,9 +335,7 @@ To set up a basic Selenium project using JDK, Maven, and Eclipse, follow these s
 2. Write your Selenium test code using the Selenium WebDriver API.
 3. Make sure to include necessary import statements for Selenium classes.
 
-![Screenshot 2024-03-07 114828](https://github.com/Aditi22222/Selenium/assets/162342704/68e0fece-95e4-49fe-9964-c0e9ea4daf0b)
 
-![Screenshot 2024-03-07 115548](https://github.com/Aditi22222/Selenium/assets/162342704/a190ecd3-16df-4d52-a4d1-ab36b55f9f18)
 # Open browser using Selenium(WebDriver , Eclipse)
 
 import org.openqa.selenium.WebDriver;
