@@ -511,9 +511,8 @@ The PlantUML diagram illustrates the architecture and components of the Secret S
 The diagram provides a visual reference for understanding the Secret Santa Website's architecture, component interactions, and underlying technologies, facilitating better comprehension of its functionalities and implementation details.
 
 
-
-
-![dLVBSjiw3DtpAp3TfvsvYowww3In-voaJUrExk9E5ZG5osmaqYKfjvbE__s23z6IOqbslQA10-00107xZNNSkAQk6BCFKcsvuJLikNZW9S9l1lIvec-bqOqgPhhI1gvbkN6tKZr4hJO5cgYvgWZA_Z3MEdXsMTHImG9BQPtXJchrB7dzxpF-11xKEscb0xT1C1qWiIZnFc9lZTx90a6XG6kvUOG27PULJVexNic2EmIfrjhKmJwfPWQzGkL](https://github.com/Aditi22222/SecretSanta/assets/162342704/c7c1f22f-90db-40a3-8678-ed86e262ec08)
+![dLTDazis3BtpLs1otsIcXnvoo2Hhfqaxkyd6RhU7pXve2fQPbKY5f9piTFhV2tw8bhoMP6TFCl00F80Wm7rh7JUkhIl6xADK3JUyXeQBHruY_Ck0_gxfLsbqgug5hhI16rdkt9rKZr6hJO4cQguhWhB_6EiSl7XNr5B12ajfdU5EQlKYUVtd4tu77jHxQQK3jqCmFI2nAF4XOk-Ctii2GQ50QxbvWW8TbvLD-djUoO8x1AcssjJ1FgaM1hr](https://github.com/Aditi22222/SecretSanta/assets/162342704/aa7a77e2-c5bd-44ca-90b6-a2fc5d05b7f0)
+6e262ec08)
 
  # Comprehensive Overview of Secret Santa Application
  # Backend: Node.js/Express with MongoDB
