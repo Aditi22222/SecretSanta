@@ -48,7 +48,8 @@ The Secret Santa Website documentation outlines the development and implementati
 
 The document begins with an introduction to the objectives of the Secret Santa Website, which include enhancing user experience, streamlining event management, increasing participation, ensuring data security, expanding feature sets, improving communication, promoting accessibility, driving engagement, facilitating internationalization, and measuring success.
 
-The need for such a platform arose from observations during past celebrations, leading to collaboration among team members to find a solution. The development process is detailed, covering aspects such as admin registration, login, home page functionalities, QR code generation, employee management, viewing Secret Santa records, and email management.
+The need for such a platform arose from observations during past celebrations, leading to collaboration *January Intern* to find a solution. The development process is detailed, covering aspects such as admin registration, login, home page functionalities, QR code generation, employee management, viewing Secret Santa records, and email management.
+
 
 Technologies used in the frontend and backend development are extensively discussed, including HTML, CSS, JavaScript, React.js, Axios, Express.js, MongoDB, Node.js, Mongoose, Nodemailer, and others. The integration of Selenium testing in Eclipse for automated testing is also highlighted, along with a PlantUML diagram illustrating the Secret Santa Website's architecture.
 
