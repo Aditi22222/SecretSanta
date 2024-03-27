@@ -121,6 +121,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 
 ![Screenshot from 2024-03-27 10-39-25](https://github.com/Aditi22222/SecretSanta/assets/162342704/707bfd7b-7c96-4966-99ab-8dae137994ac)
 
+
 ### Admin Login
 1. **Admin enters login credentials:** Admins enter their registered email and password.
 2. **Validate login credentials:** The system validates the entered credentials.
