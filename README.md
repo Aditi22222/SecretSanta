@@ -119,7 +119,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 4. **Create new admin account:** Upon successful validation, a new admin account is created.
 5. **Admin directed to login page:** The admin is then redirected to the login page.
 
-  ![Screenshot 2024-03-14 162927](https://github.com/Aditi22222/SecretSanta/assets/162342704/af67a8f5-f85c-4316-a43d-6e762184bbde)
+![Screenshot from 2024-03-27 10-39-25](https://github.com/Aditi22222/SecretSanta/assets/162342704/707bfd7b-7c96-4966-99ab-8dae137994ac)
 
 ### Admin Login
 1. **Admin enters login credentials:** Admins enter their registered email and password.
