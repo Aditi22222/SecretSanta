@@ -113,11 +113,15 @@ Our mentors and Rashmi Chaudhary, Ma'am, identified these problems and realized 
 The Secret Santa Website facilitates various processes to ensure smooth operation and effective management of Secret Santa events within our organization. Here's a breakdown of each process:
 
 ### Admin Registration
+
 1. **New admin visit the registration page:** New admins access the registration page to create an account.
 2. **Provide necessary details:** Admins provide required information such as name, email, and password.
 3. **Validate information:** The system validates the provided information.
-4. **Create new admin account:** Upon successful validation, a new admin account is created.
-5. **Admin directed to login page:** The admin is then redirected to the login page.
+4. **Generate OTP:** An OTP (One-Time Password) is generated and sent to the admin's provided email for verification.
+5. **Verify OTP:** Admin verifies the OTP to confirm their identity.
+6. **Create new admin account:** Upon successful OTP verification, a new admin account is created.
+7. **Admin directed to login page:** The admin is then redirected to the login page.
+
 
 ![Screenshot from 2024-03-27 10-39-25](https://github.com/Aditi22222/SecretSanta/assets/162342704/707bfd7b-7c96-4966-99ab-8dae137994ac)
 
