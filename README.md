@@ -123,7 +123,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 7. **Admin directed to login page:** The admin is then redirected to the login page.
 
 
-![Screenshot from 2024-03-27 10-39-25](https://github.com/Aditi22222/SecretSanta/assets/162342704/707bfd7b-7c96-4966-99ab-8dae137994ac)
+![Screenshot from 2024-03-27 12-15-02](https://github.com/Aditi22222/SecretSanta/assets/162342704/49ff546a-84aa-4678-8455-eb672d6e20d2)
 
 ![image](https://github.com/Aditi22222/SecretSanta/assets/162342704/a50b3f4a-f819-4d7e-9590-40c8debbcd41)
 
