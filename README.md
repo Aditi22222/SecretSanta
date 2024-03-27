@@ -129,6 +129,9 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 
 ![Screenshot from 2024-03-27 10-39-54](https://github.com/Aditi22222/SecretSanta/assets/162342704/1e9998a7-cd9d-457c-94db-0a2cb063582a)
 
+![Screenshot from 2024-03-27 10-40-17](https://github.com/Aditi22222/SecretSanta/assets/162342704/9e4db4a6-bed4-4173-8cf5-af6e95757289)
+
+
 ### Home Page
 1. **Choose from various options:** Admins can choose from various options available on the home page.
 
