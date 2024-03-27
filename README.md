@@ -125,7 +125,7 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 
 ![Screenshot from 2024-03-27 10-39-25](https://github.com/Aditi22222/SecretSanta/assets/162342704/707bfd7b-7c96-4966-99ab-8dae137994ac)
 
-![Screenshot from 2024-03-27 11-08-53](https://github.com/Aditi22222/SecretSanta/assets/162342704/51421921-c4b5-4ea9-b863-8c399f99f69e)
+![image](https://github.com/Aditi22222/SecretSanta/assets/162342704/a50b3f4a-f819-4d7e-9590-40c8debbcd41)
 
 
 ### Admin Login
