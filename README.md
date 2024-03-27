@@ -153,8 +153,13 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 3. **Save QR codes in a document file:** Generated QR codes are saved in a document file.
 4. **Distribute QR codes to employees:** Admins distribute QR codes to employees.
 5. **QR code button for each employee:** Each employee has a QR code button associated with their name.
+6. **Fill out the form:** Upon scanning, employees fill out a form.
+7. **Form submission:** After form submission, employees are informed of the name of the person they are assigned to be the Secret Santa for.
 
   ![Screenshot 2024-03-14 161930](https://github.com/Aditi22222/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
+
+ ![Screenshot from 2024-03-27 10-42-33](https://github.com/Aditi22222/SecretSanta/assets/162342704/3a33873e-aedf-42f9-84dc-dc2a6e7d7770)
+
 
 ### Employee Management
 1. **View/Add/Delete Employee List:** Admins can view, add, or delete employee details.
@@ -164,6 +169,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
   ![Screenshot 2024-03-21 102655 (1)](https://github.com/Aditi22222/SecretSanta/assets/162342704/52ec71e2-d991-4ba2-bfff-c93b0e4b0ec5)
 
    ![Screenshot 2024-03-21 102757](https://github.com/Aditi22222/SecretSanta/assets/162342704/c8290507-7e7d-43d1-849d-7c8c2d570192)
+
+
 
 
 ### Viewing Secret Santa Records
