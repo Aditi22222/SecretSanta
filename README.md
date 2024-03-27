@@ -569,50 +569,50 @@ The diagram provides a visual reference for understanding the Secret Santa Websi
 6e262ec08)
 
  # Comprehensive Overview of Secret Santa Application
- # Backend: Node.js/Express with MongoDB
+ ## Backend: Node.js/Express with MongoDB
 
-## User Authentication:
-- Express.js handles HTTP requests.
-- MongoDB is connected using Mongoose.
-- Two schemas, Emp and User, are defined with Mongoose.
-- Routes for user authentication (/register, /login) are implemented.
-- Passwords are hashed with bcrypt before saving.
-- Login route checks email existence and compares hashed passwords.
+### User Authentication:
+- HTTP requests handled by Express.js.
+- MongoDB connected using Mongoose.
+- Schemas defined for Emp and User using Mongoose.
+- Implemented routes for user authentication (/register, /login).
+- Passwords hashed with bcrypt before saving.
+- Login route validates email existence and compares hashed passwords.
 
-## Employee Management:
-- Endpoints for adding, fetching, updating, and deleting employees (/emplist, /emplist/:id, /empl/:id).
+### Employee Management:
+- Endpoints created for adding, fetching, updating, and deleting employees (/emplist, /emplist/:id, /empl/:id).
 - Employee data includes first name, last name, and email.
 
-## Secret Santa Assignment:
+### Secret Santa Assignment:
 - Endpoint /santasubmit assigns Secret Santas to employees.
-- It sends emails to each employee with their Secret Santa's details.
+- Sends emails to each employee with their Secret Santa's details.
 
-# Frontend: React.js
+## Frontend: React.js
 
-## Components:
-- **Register:** User registration form with form validation using Axios for HTTP requests and React Hot Toast for notifications.
-- **Santaform:** Form for submitting Secret Santa entries with form validation and Axios for HTTP requests.
-- **ShowQr:** Displays QR code generated based on URL parameters.
-- **UpdateEmp:** Incomplete component for updating employee information.
-- **App:** Main component with React Router for navigation.
+### Components:
+- Register: User registration form with form validation using Axios for HTTP requests and React Hot Toast for notifications.
+- Santaform: Form for submitting Secret Santa entries with form validation and Axios for HTTP requests.
+- ShowQr: Displays QR code generated based on URL parameters.
+- UpdateEmp: Incomplete component for updating employee information.
+- App: Main component with React Router for navigation.
 
-## Routing:
-- React Router handles client-side routing with different routes mapped to corresponding components.
+### Routing:
+- React Router manages client-side routing with different routes mapped to corresponding components.
 
-## Root Rendering:
+### Root Rendering:
 - ReactDOM.createRoot creates a root instance for rendering in strict mode.
 
-## Event Handlers and Form Validation:
+### Event Handlers and Form Validation:
 - Handlers like handlechange, handlechangeemail, and handlechangepass update state.
 - Form validation checks required fields and data criteria.
 
-## API Requests:
+### API Requests:
 - Axios makes HTTP requests to localhost:9002 for user registration and Santa event entries.
 
-## Styling:
+### Styling:
 - Basic CSS styling applied to components.
 
-## Additional Features:
+### Additional Features:
 - Nodemailer used for sending emails.
 - QR code generation (/empqr) and viewing Secret Santa records (/records).
 
