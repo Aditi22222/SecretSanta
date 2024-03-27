@@ -156,7 +156,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 6. **Fill out the form:** Upon scanning, employees fill out a form.
 7. **Form submission:** After form submission, employees are informed of the name of the person they are assigned to be the Secret Santa for.
 
-  ![Screenshot 2024-03-14 161930](https://github.com/Aditi22222/SecretSanta/assets/162342704/8159bf15-563c-40ad-a85b-c14f3d50b061)
+ ![Screenshot from 2024-03-27 10-41-06](https://github.com/Aditi22222/SecretSanta/assets/162342704/9aad3a12-37e0-4dc7-8b3c-d4e15b2fca0f)
+
 
  ![Screenshot from 2024-03-27 10-42-33](https://github.com/Aditi22222/SecretSanta/assets/162342704/3a33873e-aedf-42f9-84dc-dc2a6e7d7770)
 
