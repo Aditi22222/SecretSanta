@@ -167,9 +167,8 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 2. **Manage employee details:** Admins can manage employee details as needed.
 3. **Update Employee Information:** Admins have the option to update employee information, ensuring that the data remains accurate and up to date.
 
-  ![Screenshot 2024-03-21 102655 (1)](https://github.com/Aditi22222/SecretSanta/assets/162342704/52ec71e2-d991-4ba2-bfff-c93b0e4b0ec5)
-
-   ![Screenshot 2024-03-21 102757](https://github.com/Aditi22222/SecretSanta/assets/162342704/c8290507-7e7d-43d1-849d-7c8c2d570192)
+![Screenshot from 2024-03-27 10-41-21](https://github.com/Aditi22222/SecretSanta/assets/162342704/19f59ebb-a119-4c3e-93c7-49342edd6360)
+![Screenshot 2024-03-21 102757](https://github.com/Aditi22222/SecretSanta/assets/162342704/c8290507-7e7d-43d1-849d-7c8c2d570192)
 
 
 
