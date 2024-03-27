@@ -166,6 +166,9 @@ The Secret Santa Website facilitates various processes to ensure smooth operatio
 2. **Contain assigned Secret Santa details:** Email notifications contain assigned Secret Santa details.
 3. **Disclose assigned Secret Santa details via email:** Assigned Secret Santa details are disclosed via email.
 
+![Screenshot from 2024-03-27 10-43-09](https://github.com/Aditi22222/SecretSanta/assets/162342704/8fb05804-244c-4b17-a703-6e3313655fe9)
+
+
 ## Technologies Used
 
 ### Frontend
